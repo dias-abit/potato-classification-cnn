@@ -19,3 +19,5 @@ The goal is to help automate agricultural product sorting by using computer visi
 - CNN training and evaluation
 - Streamlit web app for user-friendly predictions
 - Model deployment on Heroku
+
+[Download trained model (.pth)](https://drive.google.com/drive/folders/1a6DIM0Gp465TgmIUUQo6377rhDdfwjxY?usp=sharing)
